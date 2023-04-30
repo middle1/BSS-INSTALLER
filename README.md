@@ -1,0 +1,2 @@
+# BSS-INSTALLER
+BrawlStrarsServer-Installer
