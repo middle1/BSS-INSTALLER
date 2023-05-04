@@ -2,7 +2,7 @@
 ## Description:
 - This is a Bash script for linux that can quickly set up various private servers for the Brawl Stars game.
 ## Installation:
-``` git clone https://middle1/BSS-INSTALLER ```
+``` git clone https://github.com/middle1/BSS-INSTALLER ```
 
 ## Usage:
 ### ENG script language 
