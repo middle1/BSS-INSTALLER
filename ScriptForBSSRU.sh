@@ -5,7 +5,7 @@ apt update -y
 echo ""
 echo "Запущена проверка установленных зависимостей"
 
-packages=("python" "python3" "python3-pip" "git" "wget" "curl" "nano" "tput")
+packages=("python" "python3" "python3-pip" "git" "wget" "curl" "nano" "tput" "ncurses-utils")
 
 for package in "${packages[@]}"
 do
